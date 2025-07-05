@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vipul Compose Task</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="no_data_found">No Data Found</string>">
+    <string name="name">Name</string>">
+    <string name="symbol">Symbol</string>">
+    <string name="price">Price</string>">
+    <string name="change_percentage">24h Change %</string>">
+</resources>
